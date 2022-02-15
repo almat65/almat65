@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @almat65, a student of Laval University, Quebec, Quebec, Canada
+- 👋 Hi, I’m @almat65, a student of Laval University, Quebec, Canada
 - 👀 I’m interested in geomatics development
-- 🌱 I’m currently learning Java, Python, JavaScript
-- 💞️ I’m looking to collaborate on IGO-2
+- 🌱 I’m currently learning JavaScript, Java, Python
+- 💞️ I’m looking to collaborate on Jakartowns 
 - 📫 How to reach me aleksandr.matveev.1@ulaval.ca
 
 <!---
