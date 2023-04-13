@@ -1,0 +1,12 @@
+jakartowns-backend
+on utilise poetry comme le gestionnaire des dependances, pour cela on fait poetry install et tous les dependances se sont installées dans mon environnement. maintenant on n'a pas de conflits dans les fichiers. 
+
+
+fastapi fonctionne avec uvicorn. uvicorn rule le serveur, et dans la commande on specifie l'application qu'on rule. dans le cas de tutoriel, c'est fastApi
+
+
+
+
+
+
+dans python **dict -> pour fusionner un dictionnaire avec un autre param
