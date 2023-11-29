@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @almat65, student of Laval University, Quebec, Canada
+- 👋 Hi, I’m @almat65,
 - 👀 I’m interested in geomatics development
 - 🌱 I’m collaborating on CGI.com projects
 - 💞️ I’m passionnate to use Python and JS 
